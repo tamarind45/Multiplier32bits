@@ -1,10 +1,7 @@
 # 32-bit Signed Booth Radix-4 Multiplier
 
 **Author:** Nguyen Tuan Dung  
-**Subject:** Computer Architecture  
-**University:** Ho Chi Minh University of Technology - VNUHCM  
-**Semester:** HK261  
-**Instructor:** Chau Tran Vinh Lam
+**Subject:**  
 
 A fully combinational 32 x 32 -> 64-bit **signed** multiplier written in
 SystemVerilog. It uses modified Booth radix-4 recoding, a Dadda compression
